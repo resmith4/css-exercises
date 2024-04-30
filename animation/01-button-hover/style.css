@@ -16,10 +16,6 @@ button {
   font-size: 18px;
   padding: 16px 24px;
   text-align: center;
-}
-
-
-button {
   transition: transform 1s ease-in-out;
 }
 
